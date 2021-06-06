@@ -1,16 +1,15 @@
-### Hi there 👋
+### Lulllll Coaster here 😋
 
-<!--
-**CoasterFreakDE/CoasterFreakDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on everything at the same time.
+- 🌱 I’m currently learning everything I get to see. Mainly Kotlin
+- 😄 Pronouns: He/Him
+- ⚡ Age: 22
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Languagues (since 06.06.2021):
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ef385348-3d1e-445d-bd18-dffa81c0a803/6137ae82-aff9-4750-8583-e07788f59348.png" /></a>
+
