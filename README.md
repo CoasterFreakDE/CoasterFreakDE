@@ -3,7 +3,7 @@
 ---
 
 - 🔭 I’m currently working on everything at the same time.
-- 🌱 I’m currently learning everything I get to see. Mainly Kotlin
+- 🌱 Kotlin Lover
 - 😄 Pronouns: He/Him
 - ⚡ Age: 22
 
