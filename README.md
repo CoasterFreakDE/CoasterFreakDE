@@ -3,7 +3,7 @@
 ---
 
 - 🔭 I’m currently working on everything at the same time.
-- 🌱 Kotlin Lover
+- <img src="https://user-images.githubusercontent.com/28011628/121870081-f9d44980-cd02-11eb-8669-478952709ca1.png" alt="kotlin_rainbow" width="24"/> Kotlin Lover
 - 😄 Pronouns: He/Him
 - ⚡ Age: 22
 
