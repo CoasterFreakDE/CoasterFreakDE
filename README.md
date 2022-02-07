@@ -11,5 +11,12 @@
 
 #### Languagues (since 06.06.2021):
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ef385348-3d1e-445d-bd18-dffa81c0a803/070142f4-c93a-4518-8989-9f67251738c4.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ef385348-3d1e-445d-bd18-dffa81c0a803/0d83b6b5-b4e5-423f-a731-b0c73ab0793f.png" /></a>
 
+#### Coding Editors (since 06.06.2021):
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ef385348-3d1e-445d-bd18-dffa81c0a803/38f7fd1b-4c97-49c8-93db-c32d7cb9f506.png" /></a>
+
+#### Activity (last 30 days):
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ef385348-3d1e-445d-bd18-dffa81c0a803/9e19d190-7b93-4355-b2c7-e4a3ffbd534a.png" /></a>
