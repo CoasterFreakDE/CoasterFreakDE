@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on everything at the same time.
 - <img src="https://user-images.githubusercontent.com/28011628/121870081-f9d44980-cd02-11eb-8669-478952709ca1.png" alt="kotlin_rainbow" width="24"/> Kotlin Lover
 - 😄 Pronouns: He/Him
-- ⚡ <img src="https://api.dishub.tools/v1/open/age/1999-02-03.svg?valueTextColor=0x2f3641" alt="drawing" width="60"/>
+- ⚡ Age: 23
 
 ---
 
